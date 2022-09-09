@@ -1,0 +1,34 @@
+{
+    "info": {
+        "store"     : "Quality Nails",
+        "slug"      : "quality-nails",
+        "phone"     : "480 214 2286",
+        "email"     : "qualitynails.az@gmail.com",
+        "address"   : "655 W Warner Rd Ste 116, Tempe, Arizona 85284",
+        "time_1"    : "Mon - Sat: 9:00 AM - 7:00 PM",
+        "time_2"    : "Sun: close"
+    },
+    "url":  {
+        "facebook"  :   "https://www.facebook.com/Qualitynails.az/",
+        "instagram" :   "https://www.instagram.com/quality_nails_85284/",
+        "google"    :   "https://goo.gl/maps/d7TWEvCMZWLFmZtm6", 
+        "booking"   :   "https://www.lldtek.com/salon/appt/NDQ2NDh8cXVhbGl0eTY1NXxBWl8wNzc4MXw0YWRiYzRhNTBjYjNhOTRjZDJlNmY3NTdiODUyZGQ1Mg==",
+        "maps"      :   "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3333.4606758019277!2d-111.9478661!3d33.3329126!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x872b0683f2b3c78d%3A0x52197d55a1f38c60!2sQuality%20Nails!5e0!3m2!1svi!2s!4v1662446901830!5m2!1svi!2s"
+    },
+    "color": {
+        "primary"               :   "#167dde",
+        "primary_light"         :   "#00b7ff",
+        "primary_hover"         :   "#00b7ff",
+        "secondary"             :   "#f4ff00",
+        "secondary_hover"       :   "#386270",
+        "text_primary"          :   "#FFFFFF",
+        "text_primary_hover"    :   "#FFFFFF",
+        "text_secondary"        :   "#FFFFFF",
+        "text_secondary_hover"  :   "#FFFFFF",
+        "text_title"            :   "#429D64",
+        "text_title_hover"      :   "#90C73E"
+    },
+    "debug":        "off",
+    "path_image":   "images"
+}
+
